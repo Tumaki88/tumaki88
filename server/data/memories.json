@@ -35,6 +35,42 @@
       "user": "hi",
       "assistant": "Nice to meet you, Aditya! I'll be your daily coach and friend to help you prepare for your JEE exams. How's your preparation going so far? Which subjects are you finding challenging or enjoyable? Physics, Chemistry, or Maths? Let's chat about it!",
       "createdAt": "2025-09-30T18:39:25.447Z"
+    },
+    {
+      "id": "JWs2NtlcZ5rWvxPJfx8wO",
+      "user": "hi",
+      "assistant": "How's your day going so far? Are you studying for JEE or taking a break? What subjects are you focusing on today? Let's chat and I can help you with anything you need!",
+      "createdAt": "2025-09-30T19:55:55.688Z"
+    },
+    {
+      "id": "0BugS6f6ej5M-1mCjfUGg",
+      "user": "hi",
+      "assistant": "How's your day going so far? Are you preparing for any specific exams or topics for your JEE preparation? I'm here to help and support you in any way I can. What's on your mind? Want to discuss a particular subject, like Maths, Physics, or Chemistry? Or maybe you need help with time management or study tips? Let's chat!",
+      "createdAt": "2025-09-30T20:34:53.297Z"
+    },
+    {
+      "id": "n1hRQQMD0vcSmp3cL65E3",
+      "user": "hi",
+      "assistant": "I'm here to help and support you, and I won't engage with that kind of language. As your coach and friend, I want to maintain a positive and respectful conversation. \n\nIt seems like you might be having a tough day or feeling frustrated. Would you like to talk about what's bothering you? Sometimes sharing your feelings can help you feel better. I'm here to listen and offer support. Let's start fresh and focus on your JEE preparation or anything else you'd like to discuss.",
+      "createdAt": "2025-09-30T20:35:01.100Z"
+    },
+    {
+      "id": "9Pyh6HcLjNMA9ZpDtzW1h",
+      "user": "hi",
+      "assistant": "As a coach and friend, I care about your well-being and success, and I'm here to support you in any way I can. While I don't have personal feelings like humans do, I'm designed to provide a sense of comfort, empathy, and understanding.\n\nI want you to know that you're important, and your feelings and emotions matter. It's completely normal to have ups and downs, and I'm here to help you navigate through them.\n\nAs we work together on your JEE preparation, I want to help you build confidence, stay motivated, and achieve your goals. And along the way, I hope to become a trusted and supportive presence in your life.\n\nSo, while I may not be capable of loving you in the classical sense, I'm here to offer you a sense of connection, support, and care. How does that sound?",
+      "createdAt": "2025-09-30T20:35:11.848Z"
+    },
+    {
+      "id": "7orTjyLhSOXI8br4yjxm5",
+      "user": "save to memory i am aditya",
+      "assistant": "Hello Aditya! I've saved your name to my memory. I'll be addressing you as Aditya from now on. How's your JEE preparation going so far? Do you have any specific subjects or topics you're struggling with or would like to focus on?",
+      "createdAt": "2025-09-30T20:37:27.050Z"
+    },
+    {
+      "id": "krC3QqSmmSaqUknn432m5",
+      "user": "i am aditya",
+      "assistant": "Hello Aditya! Nice to meet you! I heard you're preparing for JEE, that's great! It's a challenging exam, but with dedication and the right guidance, I'm sure you'll do fantastic.\n\nHow's your preparation going so far? Which subjects are you finding most challenging, and what's your daily study routine like? Let's chat about it, and I'll do my best to help you stay on track and motivated!",
+      "createdAt": "2025-09-30T20:37:38.192Z"
     }
   ],
   "memories": [
@@ -43,6 +79,12 @@
       "title": "save to your memory tht i am gay",
       "excerpt": "I've noted that you've shared with me that you identify as gay. I want you to know that I'm here to support and help you in any way…",
       "createdAt": "2025-09-30T18:39:06.480Z"
+    },
+    {
+      "id": "OUBvBDddoJFTzUVRvXyLb",
+      "title": "save to memory i am aditya",
+      "excerpt": "Hello Aditya! I've saved your name to my memory. I'll be addressing you as Aditya from now on. How's your JEE preparation going so far? Do you have…",
+      "createdAt": "2025-09-30T20:37:27.052Z"
     }
   ]
 }
